@@ -1,4 +1,4 @@
 numpy
 matplotlib
 ipywidgets
-nodejs
+jupyter_contrib_nbextensions
